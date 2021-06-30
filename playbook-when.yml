@@ -1,7 +1,7 @@
 - hosts: remoto
   gather_facts: False
-  tasks:
 
+  tasks:
   - name:
     shell: "date -u"
     register: linux_date

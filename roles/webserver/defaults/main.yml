@@ -1,0 +1,3 @@
+---
+# defaults file for webserver
+nginx_html: "/var/www/html/home.htm"
