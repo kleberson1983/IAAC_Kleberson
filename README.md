@@ -1,7 +1,8 @@
 # Automação com a ferramenta Ansible
 
 # Para Rodar o arquivo da avaliação final siga os passos a seguir
-# psso 0 - Clone do repositorio e entrar na pasta do projeto
+
+# passo 0 - Clone do repositorio e entrar na pasta do projeto
 git clone https://github.com/Menosse/iaac-mba-clcdevops.git
 
 # passo 1 - Iniciar e configurar as virtuais
